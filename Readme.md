@@ -1,3 +1,5 @@
-# Computer Laboratory I
-## [ใบงานที่ 1 การใช้งาน Repository เบื้องต้น](week-01.md) 
-## [เอกสารแนะนำ github](github-intro.md)
+# CL61-01
+Computer Laboratory 2561 - Lab 01
+
+My name is Watsapond Khunthorn
+Edited by Github Text Editor.
